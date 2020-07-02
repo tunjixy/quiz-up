@@ -1,0 +1,132 @@
+[
+  {
+    "type": "mc",
+    "question": "Billy Corgan is the lead singer of which alternative rock band?",
+    "answer": "The Smashing Pumpkins",
+    "options": [
+      "The Smashing Pumpkins",
+      "The Beatles",
+      "Backstreet Boys",
+      "Westlife"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What was Britney Spears’ first single called?",
+    "answer": "Baby One More Time",
+    "options": ["I Need You", "Baby One More Time", "Love You", "The Two Of Us"]
+  },
+  {
+    "type": "mc",
+    "question": "What was the name of the original drummer for The Beatles?",
+    "answer": "Pete Best",
+    "options": ["Pete Best", "Daniel Best", "Philip Best", "Craig Best"]
+  },
+  {
+    "type": "mc",
+    "question": "Michael Jackson’s Thriller was produced by which music producer?",
+    "answer": "Quincy Jones",
+    "options": ["Quincy Jones", "Quincy Berry", "Ryan Jones", "Paul Jones"]
+  },
+  {
+    "type": "mc",
+    "question": "Who is referred to as the Queen of Pop?",
+    "answer": "Madonna",
+    "options": ["Madonna", "Alicia Keys", "Adele", "Ariana Grande"]
+  },
+  {
+    "type": "mc",
+    "question": "Elton John is known for what signature accessory?",
+    "answer": "Eyeglasses",
+    "options": ["Eyeglasses", "Hat", "Wrist Watch", "Ear Pods"]
+  },
+  {
+    "type": "mc",
+    "question": "What band had a hit with the song “Love Somebody”?",
+    "answer": "Maroon 5",
+    "options": [" Maroon 5", "Westlife", "One Direction", "The Vamps"]
+  },
+  {
+    "type": "mc",
+    "question": "The 2017 album “DAMN.” was released by which artist?",
+    "answer": "Kendrick Lamar",
+    "options": ["Kendrick Lamar", "Drake", "Chris Brown", "Bruno Mars"]
+  },
+  {
+    "type": "mc",
+    "question": "Which band recorded the 2014 UK Singles chart-topper “She Looks So Perfect”?",
+    "answer": "5 Seconds Of Summer",
+    "options": [
+      " Maroon 5",
+      "5 Seconds Of Summer",
+      "One Direction",
+      "The Vamps"
+    ]
+  },
+  {
+    "type": "mc",
+    "question": "What singer wrote and performed the song “Mean”?",
+    "answer": "Taylor Swift",
+    "options": ["Nicki Minaj", "Taylor Swift", "Alicia Keys", "Beyonce"]
+  },
+  {
+    "type": "tf",
+    "question": "Dolly Parton is the godmother of Miley Cyrus",
+    "answer": "True",
+    "options": ["True", "False"]
+  },
+  {
+    "type": "tf",
+    "question": "Radiohead wrote the song Love is All Around",
+    "answer": "False",
+    "options": ["True", "False"]
+  },
+  {
+    "type": "mc",
+    "question": "Which Beatle had dyslexia?",
+    "answer": "John Lennon",
+    "options": ["John Lennon", "Pete Best", "George Harrison", "Chas Newby"]
+  },
+  {
+    "type": "mc",
+    "question": "Who won top R&B Male Artist at the Billboard Music Awards 2018?",
+    "answer": "Bruno Mars",
+    "options": ["Bruno Mars", "Drake", "Chris Brown", "The Weekend"]
+  },
+  {
+    "type": "mc",
+    "question": "What Michael Jackson album achieve five chart-topping singles?",
+    "answer": "Bad",
+    "options": ["Bad", "Billie Jean", "Beat It", "Black or White"]
+  },
+  {
+    "type": "mc",
+    "question": "Who sang a duet with Ed Sheeran on the song “Perfect”?",
+    "answer": "Beyonce",
+    "options": ["Beyonce", "Rihanna", "Adele", "Taylor Swift"]
+  },
+  {
+    "type": "mc",
+    "question": "Who recorded the single “Only U?”",
+    "answer": "Ashanti",
+    "options": ["Ashanti", "Rihanna", "Adele", "Taylor Swift"]
+  },
+  {
+    "type": "mc",
+    "question": "Which female singer released 'Rolling in the Deep?'",
+    "answer": "Adele",
+    "options": ["Alicia Keys", "Katy Perry", "Adele", "Taylor Swift"]
+  },
+  {
+    "type": "mc",
+    "question": "What instrument does Jamie Foxx play?”",
+    "answer": "Piano",
+    "options": ["Piano", "Drum", "Guitar", "Violin"]
+  },
+  {
+    "type": "mc",
+    "question": "Who released the 2018 country song “Singles You Up”?",
+    "answer": "Jordan Davis",
+    "options": ["Jordan Davis", "Buddy Jewell", "Bob Dylan", "Thomas Rhett"]
+  }
+]

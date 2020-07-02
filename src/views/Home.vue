@@ -1,18 +1,20 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
+  <div class="py-6">
+    <h1 class="text-3xl font-bold text-center text-light-grey">Quiz Up</h1>
+    <h2 class="text-center sm:text-lg mt-1 mb-5">
+      Collection of trvia quizzes
+    </h2>
+    <div class="container">
+      <category-card />
+    </div>
   </div>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
+import CategoryCard from '@/components/CategoryCard'
 
 export default {
-  name: "Home",
-  components: {
-    HelloWorld
-  }
-};
+  name: 'Home',
+  components: { CategoryCard }
+}
 </script>
