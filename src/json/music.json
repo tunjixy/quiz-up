@@ -44,7 +44,7 @@
     "type": "mc",
     "question": "What band had a hit with the song “Love Somebody”?",
     "answer": "Maroon 5",
-    "options": [" Maroon 5", "Westlife", "One Direction", "The Vamps"]
+    "options": ["Maroon 5", "Westlife", "One Direction", "The Vamps"]
   },
   {
     "type": "mc",
