@@ -114,7 +114,7 @@ export default {
   computed: {
     resultInfo() {
       let info
-      if (this.score < 5) {
+      if (this.score < 10) {
         info = this.lowScoreReview[
           Math.floor(Math.random() * this.lowScoreReview.length)
         ]
